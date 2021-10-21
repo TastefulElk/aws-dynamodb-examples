@@ -69,10 +69,11 @@ Node.js example code for performing scan operations with Amazon DynamoDB.
 | Scan Parallel Segments|[Node.js](./WorkingWithScans/scan-parallel-segments.js) | Example code to perform a parallel scan operation in segments. |
 
 ## Working with DynamoDB Streams
+Example code that will help you manage Amazon DynamoDB Streams
 
-| All Examples 👉 | Node.js |Comments              |
-| --------------- | ------- | ------- |
-|                 | Node.js | |
+| All Examples 👉  | Node.js                                        | Comments                                    |
+| ---------------  | ---------------------------------------------- | ------------------------------------------- |
+| Read from stream | [Node.js](./WorkingWithStreams/read-stream.js) | Sample code to read from a DynamoDB Stream. |
 
 ## Working with Tables
 Example code to help you manage Amazon DynamoDB tables, manage global tables, and more using Node.js.
